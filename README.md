@@ -13,7 +13,7 @@ I build AI-integrated products, internal tools, and automation systems that crea
 	<a href="https://ericdelosreyes.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ericdelosreyes.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 	<a href="https://github.com/riCODEre" target="_blank"><img src="https://img.shields.io/badge/GitHub-riCODEre-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 	<a href="https://www.linkedin.com/in/ericcode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ericcode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="mailto:work.ericdelosreyes@gmail.com"><img src="https://img.shields.io/badge/Email-Work%20With%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=work.ericdelosreyes%40gmail.com&su=Hiring%20Inquiry%20for%20Eric%20Delos%20Reyes" target="_blank"><img src="https://img.shields.io/badge/Email-Work%20With%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -109,7 +109,7 @@ I build AI-integrated products, internal tools, and automation systems that crea
 
 If you are hiring for a full-stack engineer, backend AI engineer, or automation-focused developer, I would love to collaborate.
 
-- Email: work.ericdelosreyes@gmail.com
+- Email: [Send via Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=work.ericdelosreyes%40gmail.com&su=Hiring%20Inquiry%20for%20Eric%20Delos%20Reyes)
 - Portfolio: https://ericdelosreyes.com
 - LinkedIn: https://www.linkedin.com/in/ericcode
 
