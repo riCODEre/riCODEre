@@ -4,7 +4,7 @@
 
 ### Hi, I'm Eric Delos Reyes
 
-<img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1773845859/DelosReyes_l2m1pt.png" alt="Eric Delos Reyes" width="180" style="border-radius: 50%;" />
+<img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1775827980/adwa_ritknb.jpg" alt="Eric Delos Reyes Banner" width="100%" />
 
 <p>
 Systems-oriented Full-Stack Software Engineer from the Philippines.<br/>
@@ -76,18 +76,24 @@ I build AI-integrated products, internal tools, and automation systems that crea
 ## Featured Work
 
 ### Sociofact - AI-Integrated Content Verification System
+<a href="https://sociofact.com" target="_blank"><img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1775828188/0d4363c3-f2e1-4de1-b724-a3b783f789b7.png" alt="Sociofact Preview" width="100%" /></a>
+
 - AI-powered verification pipeline for high-throughput claim validation.
 - Reduced validation time dramatically versus manual workflow.
 - Stack: Django, AI models, Docker, Cloud Run, PostgreSQL.
 - Live: https://sociofact.com
 
 ### Ano Ulam? - AI-Integrated Food Management System
+<a href="https://anoulam.ericdelosreyes.com" target="_blank"><img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1775828230/5a1822e9-bd93-4f03-a536-bc8c8fe120e2.png" alt="Ano Ulam Preview" width="100%" /></a>
+
 - AI-native app built rapidly with strong product execution.
 - Reduced manual food data entry by up to 80% via AI and voice input.
 - Stack: FastAPI, Next.js, PostgreSQL, Perplexity AI, PayPal.
 - Live: https://anoulam.ericdelosreyes.com
 
 ### Portfolio with CMS
+<a href="https://ericdelosreyes.com" target="_blank"><img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1775828286/b983d961-6491-49eb-8dfd-2fe28704f62d.png" alt="Portfolio Preview" width="100%" /></a>
+
 - Full-stack personal platform with content management for rapid updates.
 - Built for maintainability, scalability, and better developer workflow.
 - Stack: FastAPI, Next.js, PostgreSQL, Cloud Run, Cloudinary.
@@ -105,10 +111,15 @@ I build AI-integrated products, internal tools, and automation systems that crea
 
 ## GitHub Stats
 
+Using Anurag Hazra's github-readme-stats project:
+https://github.com/anuraghazra/github-readme-stats
+
 <div align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=riCODEre&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riCODEre&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api?username=riCODEre&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riCODEre&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
+
+If the public demo endpoint is down, self-host github-readme-stats on Vercel and replace the domain in the two image URLs above.
 
 ---
 
