@@ -113,9 +113,11 @@ Using Anurag Hazra's github-readme-stats project:
 https://github.com/anuraghazra/github-readme-stats
 
 <div align="center">
-	<img height="160" src="https://github-readme-stats.vercel.app/api?username=riCODEre&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-	<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riCODEre&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+	<img height="160" src="https://stats-tracker-two.vercel.app/api?username=riCODEre&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+	<img height="160" src="https://stats-tracker-two.vercel.app/api/top-langs/?username=riCODEre&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
+
+
 
 If the public demo endpoint is down, self-host github-readme-stats on Vercel and replace the domain in the two image URLs above.
 
