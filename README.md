@@ -1,7 +1,5 @@
 <div align="center">
 
-# npm i software-engineer --full-stack
-
 ### Hi, I'm Eric Delos Reyes
 
 <img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1775827980/adwa_ritknb.jpg" alt="Eric Delos Reyes Banner" width="100%" />
