@@ -105,24 +105,6 @@ I build AI-integrated products, internal tools, and automation systems that crea
 - Magna Cum Laude, Honors Scholar
 - CGPA: 3.67/4.00 (Top 4%)
 
----
-
-## GitHub Stats
-
-Using Anurag Hazra's github-readme-stats project:
-https://github.com/anuraghazra/github-readme-stats
-
-<div align="center">
-	<img height="160" src="https://stats-tracker-two.vercel.app/api?username=riCODEre&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-	<img height="160" src="https://stats-tracker-two.vercel.app/api/top-langs/?username=riCODEre&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</div>
-
-
-
-If the public demo endpoint is down, self-host github-readme-stats on Vercel and replace the domain in the two image URLs above.
-
----
-
 ## Let's Build Something
 
 If you are hiring for a full-stack engineer, backend AI engineer, or automation-focused developer, I would love to collaborate.
