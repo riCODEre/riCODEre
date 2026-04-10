@@ -4,6 +4,8 @@
 
 ### Hi, I'm Eric Delos Reyes
 
+<img src="https://res.cloudinary.com/dpkzrqq51/image/upload/v1773845859/DelosReyes_l2m1pt.png" alt="Eric Delos Reyes" width="180" style="border-radius: 50%;" />
+
 <p>
 Systems-oriented Full-Stack Software Engineer from the Philippines.<br/>
 I build AI-integrated products, internal tools, and automation systems that create measurable business impact.
